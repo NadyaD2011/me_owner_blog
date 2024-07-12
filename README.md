@@ -18,12 +18,6 @@
 
 Повозмосности прошу вас работать в [VS CODE](https://code.visualstudio.com/), но если вы работаете в другой среде вам потребуется скачать ноутбук или компьютер библиотеку [Live Pug Compiler](https://pypi.org/project/pug/) себе на ноутбук 
 
-Затем используйте `pip` (или `pip3`) для
-установки Live Pug Compiler:
-```
-pip install pug
-```
-
 А в [VS CODE](https://code.visualstudio.com/) потребуется найти вкладку расширения и ввести туда `Live Pug Compiler`
 
 ![Картинка Live Pug Compiler](.//pug.png)
