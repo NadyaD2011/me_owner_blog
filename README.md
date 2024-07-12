@@ -20,7 +20,7 @@
 
 А в [VS CODE](https://code.visualstudio.com/) потребуется найти вкладку расширения и ввести туда `Live Pug Compiler`
 
-![Картинка Live Pug Compiler](.//pug.png)
+![Картинка Live Pug Compiler](./media/png/pug.png)
 
 И нажать на кнопку `Установить` (на скриншоте этого не увидете, потому что он у меня был установлен)
 
@@ -31,7 +31,7 @@
 Когда вы установите `Live Pug Compiler` вам потребуется нажать на клавиши в комбинации 
 CTRL+SHIFT+P потребуется ввести туда в поисковик `Start Pug Compiler` и нажать на кнопку и у вас появится кнопка на рабочей поверхности кнопка `Start Pug Compiler`, как на скриншоте и дальше вы нажимаете на её и все ваши обновления сохраняются автоматически.
 
-![Start Pug Compiler](.//Start_Pug_Compiler.png)
+![Start Pug Compiler](./media/png/Start_Pug_Compiler.png)
 
 # Цель проекта
 
