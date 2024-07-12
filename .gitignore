@@ -5,6 +5,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.gitattributes
 
 # C extensions
 *.so
