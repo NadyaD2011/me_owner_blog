@@ -16,6 +16,21 @@ mixin custom-select(name)
     +select-item('Video Post')
 
 header.header
+
+  .header__mobile
+    .header__mobile-top
+      img.header__logo(src='../media/svg/Logotype.svg', alt='картинка')
+      .header__close-btn
+        span.header__mobile-cross
+    .header__bottom_mobile
+      +custom-select('Demos')
+      +custom-select('Post')
+      +custom-select('Features')
+      +custom-select('Categories')
+      +custom-select('Shop')
+      a.header__link(href='/') Buy Now
+
+
   .header__top
     .header__burger
       span.header__burger-menu
@@ -24,7 +39,7 @@ header.header
       input.header__text-field(type='text', placeholder='Поиск')
       button.header__search
   .header__bottom  
-    +custom-select('Democ')
+    +custom-select('Demos')
     +custom-select('Post')
     +custom-select('Features')
     +custom-select('Categories')
