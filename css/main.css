@@ -84,7 +84,6 @@
     }
     .main__card{
         width: 25%;
-        margin: 0 5% 2rem 0px;
     }
     .main__card:nth-child(2n){
         margin-right: 5%;
